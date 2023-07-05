@@ -1,3 +1,4 @@
+<img align="center" Alt="Coding" width="100%" height="800" src="https://images-platform.99static.com/FCGyZdXRohFNLqSvaky0qfBD04k=/0x0:2000x2000/500x500/top/smart/99designs-contests-attachments/107/107412/attachment_107412944">
 <h1 align="center">Hi 👋, I'm Abdul Suban</h1>
 <h3 align="center">"Curious mind exploring the wonders of code, eager to learn and create digital magic."</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
