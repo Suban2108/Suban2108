@@ -1,7 +1,7 @@
 <img align="Center" Alt="Coding" width="100%" height="600" src="https://img.freepik.com/premium-vector/software-development-programming-language-coding_284092-33.jpg?w=2000">
 <h1 align="center">Hi 👋, I'm Abdul Suban</h1>
 <h3 align="center">"Curious mind exploring the wonders of code, eager to learn and create digital magic."</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suban2108&label=Profile%20views&color=0e75b6&style=flat" alt="suban2108" /> </p>
 
 - 📫 How to reach me **Suban14925@gmail.com**
