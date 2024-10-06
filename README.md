@@ -13,6 +13,8 @@
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-%23F0F0F0.svg?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/suban14925?hr_r=1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suban2108/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-F9C23C?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/suban2004/)
+[![Take U Forward](https://img.shields.io/badge/Take%20U%20Forward-1F1F1F?style=for-the-badge&logo=TakeUForward&logoColor=white)](https://takeuforward.org/profile/Suban2108)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
