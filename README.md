@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdul Suban</h1>
 <h3 align="center">"Curious mind exploring the wonders of code, eager to learn and create digital magic."</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=suban2108&label=Profile%20views&color=0e75b6&style=flat" alt="suban2108" />
-</p>
+[![](https://visitcount.itsvg.in/api?id=suban2108&label=Profile%20Views&color=1&icon=5&pretty=true)](https://github.com/suban2108)
+
 
 - 📫 How to reach me **Suban14925@gmail.com**
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1K3-p-LCroT84pqeeGYxVTt6oTgqd0cvh/view'> Resume Link</a>
@@ -31,7 +30,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=suban2108&show_icons=true&locale=en&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=suban2108&show_icons=true&locale=en)
-![](https://github-readme-streak-stats.herokuapp.com/?user=suban2108)
