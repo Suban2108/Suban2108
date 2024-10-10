@@ -5,7 +5,7 @@
 
 
 - 📫 How to reach me **Suban14925@gmail.com**
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1K3-p-LCroT84pqeeGYxVTt6oTgqd0cvh/view'> Resume Link</a>
+- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1CqS-LcHBObnqhJ-oikntquxbP3gXXvg7/view?usp=sharing'> Resume Link</a>
 - ⚡ Fun fact **I am a Focused-Minded person 😎**
 
 ## 🌐 Socials:
