@@ -35,4 +35,5 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23000000.svg?style=for-the-badge&logo=ejs&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/POSTMAN-%23000000.svg?style=for-the-badge&logo=postman&logoColor=orange)
 
